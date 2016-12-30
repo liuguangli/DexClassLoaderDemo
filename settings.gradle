@@ -1,1 +1,1 @@
-include ':app', ':apkbeloaded' , ':lib'
+include ':host', ':bundle'
